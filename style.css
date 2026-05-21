@@ -1,9 +1,17 @@
-@media (max-width:600px){
-    body{width: auto;
-height: auto;
-    }
-}
 
+@media (max-width:600px)  {
+
+
+    body
+    
+    
+    
+    
+    {width: auto;
+height: 720px;
+    }
+
+}
 
 
 
@@ -175,7 +183,7 @@ box-shadow: 5px 5px 5px 5px black;
 
 body {
   background-image: url('foto/photo.jpg'); /* رابط صورتك */
-  background-repeat: ; /* هذه تمنع تكرار الصورة */
+  background-repeat: no-repeat; /* هذه تمنع تكرار الصورة */
   background-size: cover;       /* لتغطي الصورة كامل الشاشة */
   
 }
