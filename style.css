@@ -1,0 +1,181 @@
+@media (max-width:600px){
+    body{width: auto;
+height: auto;
+    }
+}
+
+
+
+
+#gg{
+position: relative;
+margin: 60px auto;
+    margin-bottom: auto;
+    margin-top: 60px;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 400px;
+    aspect-ratio: 2/3; 
+    overflow: hidden;
+    height: 500px; 
+    background: #313030;
+
+
+
+
+
+    border-radius: 50px;
+    box-shadow: 5px 5px 35px 5px white;
+}
+
+
+#img1{
+position: relative;
+width: 25%;
+margin-left: 38%;
+left: 0%;
+border-radius: 200px;
+
+height: 17%;
+}
+
+#h1{
+color: white;
+box-shadow: 5px 5px 5px 5px black;
+ font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#b1{
+    background: transparent;
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+}
+
+#b1>h3{
+    width: 90%;
+    color:white;
+   font-family: "Great Vibes", cursive;
+  font-weight: 400px;
+  font-style: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+}
+#b2{
+    background: transparent;
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+}
+#b2>h3{
+    width: 90%;
+    color:white;
+   font-family: "Great Vibes", cursive;
+  font-weight: 400px;
+  font-style: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+}
+
+#b3{
+    background: transparent;
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+}
+#b3>h3{
+    width: 90%;
+    color:white;
+   font-family: "Great Vibes", cursive;
+  font-weight: 400px;
+  font-style: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+}
+
+#b4{
+    background: transparent;
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+
+}
+#b4>h3{
+    
+    width: 90%;
+    color:white;
+   font-family: "Great Vibes", cursive;
+  font-weight: 400px;
+  font-style: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+
+
+}
+
+#gg>video{
+
+
+
+    position: absolute;      /* المفتاح */
+    top: 0%;
+    left: 0%;
+
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+    border-radius: 50px;
+    z-index: 0;
+}
+
+
+
+
+
+
+
+#img1,#b1,#b2,#b3,#b4,
+#h1,
+#ul {
+    position: relative;
+    z-index: 1;
+}
+
+
+
+  
+  
+
+
+
+
+
+
+
+   
+    
+    
+
+    
+
+
+body {
+  background-image: url('foto/images\ \(2\).jpeg'); /* رابط صورتك */
+  background-repeat:  no-repeat; /* هذه تمنع تكرار الصورة */
+  background-size: cover;       /* لتغطي الصورة كامل الشاشة */
+  
+}
