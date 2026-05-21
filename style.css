@@ -22,7 +22,7 @@ margin: 60px auto;
     height: 500px; 
     background: #313030;
 
-display: block;
+
 
 
 
@@ -174,7 +174,7 @@ box-shadow: 5px 5px 5px 5px black;
 
 
 body {
-  background-image: url('foto/images\ \(2\).jpeg'); /* رابط صورتك */
+  background-image: url('foto/photo.jpg'); /* رابط صورتك */
   background-repeat:  no-repeat; /* هذه تمنع تكرار الصورة */
   background-size: cover;       /* لتغطي الصورة كامل الشاشة */
   
